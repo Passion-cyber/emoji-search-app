@@ -1,0 +1,163 @@
+{  "users": [
+    {
+        "src": "images/big-sis.JPG",
+        "naming": "Ndu Jeniffer",
+        "score": "Power-Ranking: 2053pts",
+        "track": "Front-End",
+        "position": "1st",
+        "category": "frontend"
+    },
+    {
+        "src": "images/esther-babe.JPG",
+        "naming": "Esther Chidera",
+        "score": "Power-Ranking: 2223pts",
+        "track": "Back-End",
+        "position": "1st",
+        "category": "backend"
+    },
+    {
+        "src": "images/chydel-bro.JPG",
+        "naming": "Aneke Harrison",
+        "score": "Power-Ranking: 2303pts",
+        "track": "Web3",
+        "position": "1st",
+        "category": "web3"
+    },
+    {
+        "src": "images/precious-rewind.JPG",
+        "naming": " Igboaja Precious",
+        "score": "Power-Ranking: 2453pts",
+        "track": "UI/UX",
+        "position": "1st",
+        "category": "ui/ux"
+    },
+    {
+        "src": "images/jc-realator.JPG",
+        "naming": "Onwe Solomon",
+        "score": "Power-Ranking: 2240pts",
+        "track": "Front-End",
+        "position": "2nd",
+        "category": "frontend"
+    },
+    {
+        "src": "images/princess-sis.JPG",
+        "naming": "Ciara Elebechukwu",
+        "score": "Power-Ranking: 2214pts",
+        "track": "Back-End",
+        "position": "2nd",
+        "category": "backend"
+    },
+    {
+        "src": "images/onyi-babe.JPG",
+        "naming": "Joy Nwachinemere",
+        "score": "Power-Ranking: 2310pts",
+        "track": "Web3",
+        "position": "2nd",
+        "category": "web3"
+    },
+    {
+        "src": "images/solomon-gee.JPG",
+        "naming": " Igbokwe Anthony",
+        "score": "Power-Ranking: 2307pts",
+        "track": "UI/UX",
+        "position": "2nd",
+        "category": "ui/ux"
+    },
+    {
+        "src": "images/dockie-gee.JPG",
+        "naming": "Chaarles Izunwanne",
+        "score": "Power-Ranking: 2224pts",
+        "track": "Front-End",
+        "position": "3rd",
+        "category": "frontend"
+    },
+    {
+        "src": "images/franklyn.JPG",
+        "naming": "Michael Agu",
+        "score": "Power-Ranking: 2117pts",
+        "track": "Back-End",
+        "position": "3rd",
+        "category": "backend"
+    },
+    {
+        "src": "images/godwin-gee.JPG",
+        "naming": "Gospel Christopher",
+        "score": "Power-Ranking: 2284pts",
+        "track": "Web3",
+        "position": "3rd",
+        "category": "web3"
+    },
+    {
+        "src": "images/ment.JPG",
+        "naming": "Chidnma Ogbodo",
+        "score": "Power-Ranking: 2289pts",
+        "track": "UI/UX",
+        "position": "3rd",
+        "category": "ui/ux"
+    },
+    {
+        "src": "images/favour-gee.JPG",
+        "naming": "Obiagu Francis",
+        "score": "Power-Ranking: 2104pts",
+        "track": "Front-End",
+        "position": "4th",
+        "category": "frontend"
+    },
+    {
+        "src": "images/blessing-inec.JPG",
+        "naming": "Bisola Njideka",
+        "score": "Power-Ranking: 2108pts",
+        "track": "Back-End",
+        "position": "4th",
+        "category": "backend"
+    },
+    {
+        "src": "images/ij-babe.JPG",
+        "naming": "Ngene Chizaramekpere",
+        "score": "Power-Ranking: 2241pts",
+        "track": "Web3",
+        "position": "4th",
+        "category": "web3"
+    },
+    {
+        "src": "images/makuo-babe.JPG",
+        "naming": "Makuochukwu Ogili",
+        "score": "Power-Ranking: 2242pts",
+        "track": "UI/UX",
+        "position": "4th",
+        "category": "ui/ux"
+    },
+    {
+        "src": "images/neche-babe.JPG",
+        "naming": "Prisca Nwaokereke",
+        "score": "Power-Ranking: 2017pts",
+        "track": "Front-End",
+        "position": "5th",
+        "category": "frontend"
+    },
+    {
+        "src": "images/ahmed-gee.JPG",
+        "naming": "Nkunku Christopher",
+        "score": "Power-Ranking: 2101pts",
+        "track": "Back-End",
+        "position": "5th",
+        "category": "backend"
+    },
+    {
+        "src": "images/mabel.JPG",
+        "naming": "Omumuaghugike Mabel",
+        "score": "Power-Ranking: 2014pts",
+        "track": "Web3",
+        "position": "5th",
+        "category": "web3"
+    },
+    {
+        "src": "images/irene-babe.JPG",
+        "naming": "Irene Nzejekwu",
+        "score": "Power-Ranking: 2142pts",
+        "track": "UI/UX",
+        "position": "5th",
+        "category": "ui/ux"
+    }
+]
+}
