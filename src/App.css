@@ -38,12 +38,13 @@ body {
   display: flex;
   flex-direction: column;
   padding: 20px 40px;
+  padding-bottom: 5rem;
   border-radius: 0px 40px 0px 40px;
   margin: 128px auto;
-  padding-bottom: 5rem;
 }
 
-li {
+li,
+ul {
   list-style: none;
 }
 
@@ -58,7 +59,7 @@ li {
   padding: 14px 32px 14px 16px;
   width: 400px;
   border-radius: 0px 10px 0px 10px;
-  border: 2px solid #2b2c3b;
+  border: 3px solid var(--yellow-color);
   background: transparent;
   margin-right: 10px;
   outline: none;
@@ -70,4 +71,10 @@ li {
   border: 1px solid var(--secondary-color);
   margin-bottom: 0.5rem;
   border-radius: 0px 10px 0px 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.list-items:hover{
+  transform: scaleX(1.02);
 }

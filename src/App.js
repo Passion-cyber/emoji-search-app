@@ -1,10 +1,10 @@
 import './App.css';
-import InputForm from './components/InputForm';
+import API from './components/API'
 
 function App() {
   return (
     <div className="container">
-     <InputForm/>
+     <API/>
     </div>
   );
 }
