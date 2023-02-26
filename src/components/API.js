@@ -4,7 +4,7 @@ const apiKey = process.env.REACT_APP_API_KEY;
 const API = () => {
   const [data, setData] = useState({ results: [] });
   const [input, setInput] = useState("");
-
+  
   useEffect(() => {
     fetch(`https://emoji-api.com/emojis?access_key=${apiKey}`)
       .then((reponse) => reponse.json())
