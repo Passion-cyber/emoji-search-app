@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-
 const apiKey = process.env.REACT_APP_API_KEY;
+
 
 class EmojiSearchApp extends Component {
   constructor(props) {
@@ -8,7 +8,7 @@ class EmojiSearchApp extends Component {
     this.state = { data: { results: [] }, input: "" };
   }
 
-  FetchAPIData() {
+  componentDidMount () {
     fetch(`https://emoji-api.com/emojis?access_key=${apiKey}`)
       .then((reponse) => reponse.json())
       .then((data) => this.setState({ data: { results: data } }))
@@ -48,6 +48,9 @@ class EmojiSearchApp extends Component {
 export default EmojiSearchApp;
 
 
+
+
+
 // SAME AS THE ABOVE CODE BUT IN FUNCTIONAL COMPONENT
 
 // import React, { useState, useEffect } from "react";
@@ -79,13 +82,8 @@ export default EmojiSearchApp;
 //         />
 //       </form>
 //       <ul>
-//         {data.results
-//           .filter((emoji) =>
-//             emoji.unicodeName.toLowerCase().includes(input.toLowerCase())
-//           )
-//           .map((emoji, index) => (
-//             <li key={index} className="list-items">
-//               {emoji.character} {emoji.unicodeName}{" "}
+//         {data.results.filter((emoji) => emoji.unicodeName.toLowerCase().includes(input.toLowerCase()))
+//           .map((emoji, index) => (<li key={index} className="list-items">{emoji.character} {emoji.unicodeName}{" "}
 //             </li>
 //           ))}
 //       </ul>
