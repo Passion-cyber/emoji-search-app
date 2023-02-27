@@ -1,12 +1,12 @@
 import './App.css';
-import API from './components/API'
+import EmojiSearchApp from './components/EmojiSearchApp'
 
 function App() {
   return (
     <>
     <h2 className='header-text'>🔍 Emoji Search App 🔎</h2>
     <div className="container">
-     <API/>
+     <EmojiSearchApp/>
     </div>
     </>
   );

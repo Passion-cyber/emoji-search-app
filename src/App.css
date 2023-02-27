@@ -69,8 +69,7 @@ ul {
   padding: 14px 32px 14px 16px;
   width: 600px;
   border-radius: 0px 10px 0px 10px;
-  border: 3px solid var(--secondary-color);
-  outline: var(--secondary-color);
+  border: 3px solid var(--gray-color);
   background: transparent;
   margin-right: 10px;
   outline: none;
@@ -87,8 +86,8 @@ input::placeholder {
 }
 
 input:focus {
-  outline: 3px solid var(--white-color);
-  border: 0;
+  outline: 3px solid #fff;
+  border: 3px solid #fff;
 }
 
 .list-items {
@@ -108,13 +107,9 @@ input:focus {
 }
 
 /* Header css styles */
-
 @media (max-width: 769px) {
   .header-text {
     font-size: 1.5rem;
-    text-align: center;
-    font-weight: bolder;
-    letter-spacing: 2px;
     margin: 20px 5px;
   }
 
@@ -122,7 +117,7 @@ input:focus {
     width: 80%;
     align-items: center;
     justify-content: center;
-    padding: 20px 40px;
+    padding: 20px 60px;
     margin: 40px auto;
   }
 
@@ -135,6 +130,5 @@ input:focus {
     padding: 14px 42px;
     width: 300px;
     margin-right: 10px auto;
-
   }
 }
